@@ -1,6 +1,7 @@
+# About me:
 - 👋 Hi, I’m Zhdanov Denis ( @Denisoshka )
 - 18 y.o. NSU FIT student
-#Appreciation:
+# Appreciation:
 - Mikhail Const Istomin, thank for weaning from writing bad code.
 - Sergey Petrov, thanks for your github.
 - Krevetka, thanks for the buffer
